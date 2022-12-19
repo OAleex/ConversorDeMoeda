@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversor De Moedas</string>
+
+    <string name="valor">valorAqui</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Resultado</string>
+    <string name="value_input">Informe um Valor!</string>
+    <string name="value_repeat">Valores repetidos não são válidos!</string>
+    <string name="insira_um_valor">Insira um valor</string>
+</resources>
